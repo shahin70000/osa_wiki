@@ -1,4 +1,4 @@
-[Observer](Observer)
+[Observer](Observer.md)
 
 Truth Spectrum
 
